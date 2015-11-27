@@ -1,0 +1,20 @@
+335115 nodes expanded
+cost = 26392.65
+Move from 0 0 to 3573 1435
+Draw from 3573 1435 to 3574 1437
+Move from 3574 1437 to 1492 3956
+Draw from 1492 3956 to 1492 3961
+Move from 1492 3961 to 428 6870
+Draw from 428 6870 to 433 6868
+Move from 433 6868 to 2589 6355
+Draw from 2589 6355 to 2590 6355
+Move from 2590 6355 to 4314 7340
+Draw from 4314 7340 to 4315 7340
+Move from 4315 7340 to 6117 9170
+Draw from 6117 9170 to 6120 9167
+Move from 6120 9167 to 9862 6370
+Draw from 9862 6370 to 9864 6368
+Move from 9864 6368 to 8029 3750
+Draw from 8029 3750 to 8034 3746
+Move from 8034 3746 to 9135 2719
+Draw from 9135 2719 to 9139 2720

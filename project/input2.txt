@@ -1,0 +1,12 @@
+Line from 5 45 and 6 2016
+Line from 15 24 and 16 2025
+Line from 25 77 and 26 2015
+Line from 35 67 and 36 2085
+Line from 45 17 and 46 2082
+Line from 55 89 and 56 2053
+Line from 65 64 and 66 2002
+Line from 75 79 and 76 2024
+Line from 85 43 and 86 2083
+Line from 95 51 and 96 2014
+Line from 105 27 and 106 2069
+Line from 115 48 and 116 2086

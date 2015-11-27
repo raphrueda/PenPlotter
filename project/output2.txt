@@ -1,0 +1,26 @@
+278804 nodes expanded
+cost = 24227.56
+Move from 0 0 to 5 45
+Draw from 5 45 to 6 2016
+Move from 6 2016 to 16 2025
+Draw from 16 2025 to 15 24
+Move from 15 24 to 45 17
+Draw from 45 17 to 46 2082
+Move from 46 2082 to 36 2085
+Draw from 36 2085 to 35 67
+Move from 35 67 to 25 77
+Draw from 25 77 to 26 2015
+Move from 26 2015 to 66 2002
+Draw from 66 2002 to 65 64
+Move from 65 64 to 75 79
+Draw from 75 79 to 76 2024
+Move from 76 2024 to 96 2014
+Draw from 96 2014 to 95 51
+Move from 95 51 to 115 48
+Draw from 115 48 to 116 2086
+Move from 116 2086 to 106 2069
+Draw from 106 2069 to 105 27
+Move from 105 27 to 85 43
+Draw from 85 43 to 86 2083
+Move from 86 2083 to 56 2053
+Draw from 56 2053 to 55 89
